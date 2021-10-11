@@ -35,7 +35,7 @@ li a:hover {
   color: rgba(145, 9, 31, 0.7);
 }
 .active {
-  color: rgba(99, 6, 37, 0.575);
+  color: #bb0000;
 }
 #main {
   border-radius: 5px;
